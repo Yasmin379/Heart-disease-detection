@@ -25,21 +25,7 @@ Multiple machine learning algorithms were implemented and compared to identify a
 
 ---
 
-## 🛠️ Technologies Used
-
-- **Python**
-- **Pandas** – Data manipulation
-- **NumPy** – Numerical operations
-- **Matplotlib** – Data visualization
-- **Seaborn** – Statistical visualization
-- **Scikit-learn** – Machine learning
-- **Joblib / Pickle** – Model saving and loading
-- **Streamlit** – Web application
-- **Git & GitHub** – Version control
-
----
-
-## 📂 Project Structure
+##Project Structure
 
 ```text
 Heart-disease-detection/
@@ -72,7 +58,21 @@ Heart-disease-detection/
 ├── uv.lock
 ├── .gitignore
 └── README.md
+```
 
+## 🛠️ Technologies Used
+
+- **Python**
+- **Pandas** – Data manipulation
+- **NumPy** – Numerical operations
+- **Matplotlib** – Data visualization
+- **Seaborn** – Statistical visualization
+- **Scikit-learn** – Machine learning
+- **Joblib / Pickle** – Model saving and loading
+- **Streamlit** – Web application
+- **Git & GitHub** – Version control
+
+---
 
 📊 Dataset
 
