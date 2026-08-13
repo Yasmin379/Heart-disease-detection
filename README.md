@@ -74,7 +74,9 @@ Heart-disease-detection/
 
 ---
 
-📊 Dataset
+
+
+## 📊 Dataset
 
 The project uses a heart disease dataset containing medical attributes of patients.
 
@@ -88,7 +90,9 @@ The dataset is used for both exploratory analysis and supervised machine learnin
 
 
 
-🔄 Project Workflow
+
+##🔄 Project Workflow
+
              Dataset
                 ↓
        Data Preprocessing
@@ -109,7 +113,10 @@ The dataset is used for both exploratory analysis and supervised machine learnin
 
 
 
-🔍 Exploratory Data Analysis
+````markdown
+
+
+## 🔍 Exploratory Data Analysis
 
 EDA was performed to understand the dataset before training the models.
 
@@ -125,7 +132,6 @@ Visualization of important features
 The results of EDA are available in:
 
 notebooks/EDA.ipynb
-
 
 
 ⚙️ Data Preprocessing
